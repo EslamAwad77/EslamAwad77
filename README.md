@@ -93,13 +93,8 @@ I leverage AI tools, work independently to solve complex technical challenges, a
 ## 📝 Latest Posts (with placeholder screenshots — replace `images/post1.png` etc. with your real images)
 
 - [ZEGOCLOUD Console SDK APNs Type (VoIP)](https://www.linkedin.com/posts/eslam-awad-36aa91204_xcode-ios-swift-ugcPost-7350249746764070912-qIBX)  
-  <a href="https://www.linkedin.com/posts/eslam-awad-36aa91204_xcode-ios-swift-ugcPost-7350249746764070912-qIBX" target="_blank"><img src="images/post1.png" alt="ZEGOCLOUD post screenshot (placeholder)" width="460" /></a>
-
 - [🚀 Work Smart, Not Hard 🎯](https://www.linkedin.com/posts/eslam-awad-36aa91204_work-smart-not-hard-code-faster-ugcPost-7357924313166970880-_pY7)  
-  <a href="https://www.linkedin.com/posts/eslam-awad-36aa91204_work-smart-not-hard-code-faster-ugcPost-7357924313166970880-_pY7" target="_blank"><img src="images/post2.png" alt="Work Smart post screenshot (placeholder)" width="460" /></a>
-
 - [🚀 Introducing Coursemia – Your Gateway to Courses and Professional Events 🌍](https://www.linkedin.com/posts/eslam-awad-36aa91204_swift-swiftui-ios-activity-7372645274994896896-O-q7)  
-  <a href="https://www.linkedin.com/posts/eslam-awad-36aa91204_swift-swiftui-ios-activity-7372645274994896896-O-q7" target="_blank"><img src="images/post3.png" alt="Coursemia post screenshot (placeholder)" width="460" /></a>
 
 > **How to replace the placeholder screenshots**
 > 1. Create a folder named `images` inside this repo.  
