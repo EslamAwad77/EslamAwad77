@@ -95,12 +95,6 @@ I leverage AI tools, work independently to solve complex technical challenges, a
 - [ZEGOCLOUD Console SDK APNs Type (VoIP)](https://www.linkedin.com/posts/eslam-awad-36aa91204_xcode-ios-swift-ugcPost-7350249746764070912-qIBX)  
 - [🚀 Work Smart, Not Hard 🎯](https://www.linkedin.com/posts/eslam-awad-36aa91204_work-smart-not-hard-code-faster-ugcPost-7357924313166970880-_pY7)  
 - [🚀 Introducing Coursemia – Your Gateway to Courses and Professional Events 🌍](https://www.linkedin.com/posts/eslam-awad-36aa91204_swift-swiftui-ios-activity-7372645274994896896-O-q7)  
-
-> **How to replace the placeholder screenshots**
-> 1. Create a folder named `images` inside this repo.  
-> 2. Add your images with the exact names: `post1.png`, `post2.png`, `post3.png`.  
-> 3. Commit — GitHub will render your images in the README automatically.
-
 ---
 
 ### 📫 Contact
