@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Eslam
 
-iOS Developer at [ITRoots - الجذور لتكنولوجيا المعلومات]([https://aait.sa](https://itroots.net)) 
+IOS Developer at [ITRoots - الجذور لتكنولوجيا المعلومات] ([https://aait.sa](https://itroots.net)) 
 • Building innovative AR experiences for food lovers 🍽️
 
 [🍏 My GitHub Portfolio](https://github.com/EslamAwad77/ios-developer-portfolio)
@@ -10,9 +10,8 @@ iOS Developer at [ITRoots - الجذور لتكنولوجيا المعلومات
 ### About
 
 💻 I’ve been developing iOS apps with passion for creating seamless user experiences.  
-🚀 Currently building **iBite**, an Augmented Reality food menu app that brings dishes to life in 3D.  
-🧠 Always exploring new SwiftUI and ARKit capabilities to craft immersive digital experiences.
-
+🚀 I specialize in Clean Architecture and MVVM, leveraging Combine to build robust and scalable solutions for the iOS platform. With expertise in Swift, I excel in both UIKit and SwiftUI, ensuring seamless integration and top-tier performance. My work balances elegant user interface design with a strong focus on user experience, delivering apps that are both functional and visually appealing.
+Passionate about continuous learning, I stay updated with the latest technologies and best practices, always aiming to create innovative and maintainable software solutions.
 ---
 
 ### Skills
@@ -25,7 +24,6 @@ iOS Developer at [ITRoots - الجذور لتكنولوجيا المعلومات
 📍 MapKit  
 🎧 AVFoundation  
 🧭 Coordinator Pattern  
-
 ---
 
 ### Contact
