@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Eslam Awad
 
 IOS Developer at [ITRoots - الجذور لتكنولوجيا المعلومات] [https://itroots.net]
-• Building innovative AR experiences for food lovers 🍽️
 
 [🍏 My GitHub Portfolio](https://github.com/EslamAwad77/ios-developer-portfolio)
 
@@ -19,22 +18,25 @@ Passionate about continuous learning, I stay updated with the latest technologie
 ---
 
 # 🌱 Currently Working On:
-
+  • Building  🍽️
 # 💻 Interested in:
-
+  • Building  🍽️
 # 🧠 Skills:
 
-🎨 SwiftUI  
-🧩 UIKit  
-🗂️ Core Data  
-🔥 Firebase  
-🌍 ARKit  
-📍 MapKit  
-🎧 AVFoundation  
-🧭 Coordinator Pattern  
+  🎨 SwiftUI  
+  🧩 UIKit  
+  🗂️ Core Data  
+  🔥 Firebase  
+  🌍 ARKit  
+  📍 MapKit  
+  🎧 AVFoundation  
+  🧭 Coordinator Pattern  
 ---
 
 ### Contact
 
 📫 [LinkedIn](https://www.linkedin.com/in/eslam-awad-36aa91204/)  
 💼 [Company Website](https://itroots.net)  
+
+# 📝 My Latest Blog Posts:
+  • Building  🍽️
