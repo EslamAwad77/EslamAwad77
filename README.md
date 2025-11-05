@@ -88,16 +88,16 @@ I leverage AI tools, work independently to solve complex technical challenges, a
 ## 📝 Latest Posts:
 
 - [ZEGOCLOUD Console SDK APNs Type (VoIP)](https://www.linkedin.com/posts/eslam-awad-36aa91204_xcode-ios-swift-ugcPost-7350249746764070912-qIBX)
-- <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/About%20me/Screenshot%202025-11-01%20at%208.14.18%E2%80%AFPM.imageset/Screenshot%202025-11-01%20at%208.14.18%E2%80%AFPM.png" width="460" />
-
+- <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/About%20me/Screenshot%202025-11-01%20at%208.14.25%E2%80%AFPM.imageset/Screenshot%202025-11-01%20at%208.14.25%E2%80%AFPM.png" width="460" />
 - [🚀 Work Smart, Not Hard 🎯](https://www.linkedin.com/posts/eslam-awad-36aa91204_work-smart-not-hard-code-faster-ugcPost-7357924313166970880-_pY7)
-- 
+- <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/About%20me/Screenshot%202025-11-01%20at%208.14.18%E2%80%AFPM.imageset/Screenshot%202025-11-01%20at%208.14.18%E2%80%AFPM.png" width="460" /> 
 - [🚀 Introducing Coursemia – Your Gateway to Courses and Professional Events 🌍](https://www.linkedin.com/posts/eslam-awad-36aa91204_swift-swiftui-ios-activity-7372645274994896896-O-q7)
-- 
+- <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/About%20me/Screenshot%202025-11-01%20at%208.14.31%E2%80%AFPM.imageset/Screenshot%202025-11-01%20at%208.14.31%E2%80%AFPM.png" width="460" />
 ---
 
 ### 📫 Contact:
 
-- [LinkedIn](https://www.linkedin.com/in/eslam-awad-36aa91204/)  
+- [LinkedIn](https://www.linkedin.com/in/eslam-awad-36aa91204/)
+- <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/linkedin/Screenshot%202025-11-05%20at%209.02.57%E2%80%AFPM.imageset/Screenshot%202025-11-05%20at%209.02.57%E2%80%AFPM.png" width="460" />
 - [Company Website — ITRoots](https://itroots.net)  
 - [GitHub Portfolio](https://github.com/EslamAwad77/ios-developer-portfolio)
