@@ -28,11 +28,11 @@ I leverage AI tools, work independently to solve complex technical challenges, a
 # Redesign of **Tahweela** app using Clean Architecture 
 ---
   App Store: https://apps.apple.com/eg/app/tahwela-%D8%AA%D8%AD%D9%88%D9%8A%D9%84%D9%87/id1560990750  
----
+
 # Support and feature development for **KAFOOO**
 ---
   App Store: https://apps.apple.com/eg/app/kafooo/id6605934382  
----
+
 # Support for **DelmarHealthCare** patient application.
 ---
 
