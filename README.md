@@ -25,9 +25,15 @@ I leverage AI tools, work independently to solve complex technical challenges, a
 
 ## 💻 Currently Working On:
 
-- Redesign of **Tahweela** app using Clean Architecture — App Store: https://apps.apple.com/eg/app/tahwela-%D8%AA%D8%AD%D9%88%D9%8A%D9%84%D9%87/id1560990750  
-- Support and feature development for **KAFOOO** — App Store: https://apps.apple.com/eg/app/kafooo/id6605934382  
-- Support for **DelmarHealthCare** patient application.
+# Redesign of **Tahweela** app using Clean Architecture 
+---
+  App Store: https://apps.apple.com/eg/app/tahwela-%D8%AA%D8%AD%D9%88%D9%8A%D9%84%D9%87/id1560990750  
+---
+# Support and feature development for **KAFOOO**
+---
+  App Store: https://apps.apple.com/eg/app/kafooo/id6605934382  
+---
+# Support for **DelmarHealthCare** patient application.
 ---
 
 ## 🧠 Skills — Quick Table:
@@ -81,9 +87,13 @@ I leverage AI tools, work independently to solve complex technical challenges, a
 
 ## 📝 Latest Posts:
 
-- [ZEGOCLOUD Console SDK APNs Type (VoIP)](https://www.linkedin.com/posts/eslam-awad-36aa91204_xcode-ios-swift-ugcPost-7350249746764070912-qIBX)  
-- [🚀 Work Smart, Not Hard 🎯](https://www.linkedin.com/posts/eslam-awad-36aa91204_work-smart-not-hard-code-faster-ugcPost-7357924313166970880-_pY7)  
-- [🚀 Introducing Coursemia – Your Gateway to Courses and Professional Events 🌍](https://www.linkedin.com/posts/eslam-awad-36aa91204_swift-swiftui-ios-activity-7372645274994896896-O-q7)  
+- [ZEGOCLOUD Console SDK APNs Type (VoIP)](https://www.linkedin.com/posts/eslam-awad-36aa91204_xcode-ios-swift-ugcPost-7350249746764070912-qIBX)
+  <a href="" target="_blank"><img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/About%20me/Screenshot%202025-11-01%20at%208.14.18%E2%80%AFPM.imageset/Screenshot%202025-11-01%20at%208.14.18%E2%80%AFPM.png" alt="ZEGOCLOUD post screenshot (placeholder)" width="460" /></a>
+
+- [🚀 Work Smart, Not Hard 🎯](https://www.linkedin.com/posts/eslam-awad-36aa91204_work-smart-not-hard-code-faster-ugcPost-7357924313166970880-_pY7)
+- 
+- [🚀 Introducing Coursemia – Your Gateway to Courses and Professional Events 🌍](https://www.linkedin.com/posts/eslam-awad-36aa91204_swift-swiftui-ios-activity-7372645274994896896-O-q7)
+- 
 ---
 
 ### 📫 Contact:
