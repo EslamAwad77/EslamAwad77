@@ -6,7 +6,7 @@
 
 ---
 
-## 💬 About Me
+## 💬 About Me:
 
 💻 Experienced iOS developer with a strong background in leading and managing teams on large-scale projects.  
 I design and build apps using **Clean Architecture** (Data / Domain / Presentation), the **Coordinator** pattern, and per-module dependency injection for scalable navigation. Proficient in **protocol-oriented programming (POP)**, **MVVM with Combine**, and both **SwiftUI** and **UIKit** for modern UIs.  
@@ -14,42 +14,33 @@ I leverage AI tools, work independently to solve complex technical challenges, a
 
 ---
 
-## 🛠️ What I Do
+## 🛠️ What I Do:
 
-- Architect and implement modular iOS apps (Clean Architecture + MVVM).  
+- Architect and implement modular iOS apps (Clean Architecture + MVVM combine).  
 - Build rich interfaces using SwiftUI & UIKit with robust state management (Combine).  
 - Apply design patterns and SOLID principles for clean, testable code.  
 - Integrate realtime features, media (audio/video), payments, and analytics.  
 - Lead and mentor teams to deliver high-quality, scalable mobile products.
 ---
 
-## 🌱 Currently Working On
+## 💻 Currently Working On:
 
 - Redesign of **Tahweela** app using Clean Architecture — App Store: https://apps.apple.com/eg/app/tahwela-%D8%AA%D8%AD%D9%88%D9%8A%D9%84%D9%87/id1560990750  
 - Support and feature development for **KAFOOO** — App Store: https://apps.apple.com/eg/app/kafooo/id6605934382  
 - Support for **DelmarHealthCare** patient application.
 ---
 
-## 💻 Interests
-
-- New Apple features, animations, and “glass” UI concepts.  
-- Deepening SwiftUI expertise and following new releases.  
-- Exploring cross-platform (starting Flutter course by IBM / Coursera).  
-- Implementing Clean Architecture using SwiftUI with `UIHostingController` as needed.
-
----
-
-## 🧠 Skills — Quick Table
+## 🧠 Skills — Quick Table:
 
 | Core & Languages | UI / Media / Maps | Architecture & Patterns | Backend / Integrations |
 |---|---:|---|---|
 | Swift • Concurrency (GCD • async/await) • Functional ops | SwiftUI • UIKit • Auto Layout • AVFoundation | Clean Architecture • MVVM (Combine) • Coordinator • DI • POP • SOLID | Firebase (Auth, Firestore, Storage, Messaging) • REST • Socket.IO |
 | Higher-order functions • Clean Code • Testing mindset | WidgetKit • Live Activities • MapKit • Google Maps/Places | Repository • Factory • Builder • Observer • Delegation | Push Notifications • Deep Links • Social Login • Biometric (Face ID) |
-| | Media: ZEGOCLOUD • OpenTok (Audio/Video calls) | | Payments: Stripe • PayFort • In-App Purchases • MyFatoorah • Paymob • Tamara |
+| | Media: ZEGOCLOUD • OpenTok (Audio/Video calls) | | Payments: Stripe • PayFort • In-App Purchases • MyFatoorah • Paymob • Tamara • Hyper pay |
 
 ---
 
-## 🧩 Skills — Detailed (grouped & focused)
+## 🧩 Skills — Detailed (grouped & focused):
 
 ### Languages & Concurrency
 - **Swift** — Advanced  
@@ -74,7 +65,7 @@ I leverage AI tools, work independently to solve complex technical challenges, a
 - **Core Data**, **UserDefaults**, **Keychain**, **CryptoKit**, Firebase Storage
 
 ### Payments & Analytics
-- Payment integrations: **Stripe**, **PayFort**, **In-App Purchases**, **MyFatoorah**, **Paymob**, **Tamara**  
+- Payment integrations: **Stripe**, **PayFort**, **In-App Purchases**, **MyFatoorah**, **Paymob**, **Tamara**, **HyperPay**  
 - Analytics: **AppsFlyer**, Meta/Facebook, Google Ads
 
 ### Tools, QA & Delivery
@@ -88,14 +79,14 @@ I leverage AI tools, work independently to solve complex technical challenges, a
 
 ---
 
-## 📝 Latest Posts (with placeholder screenshots — replace `images/post1.png` etc. with your real images)
+## 📝 Latest Posts:
 
 - [ZEGOCLOUD Console SDK APNs Type (VoIP)](https://www.linkedin.com/posts/eslam-awad-36aa91204_xcode-ios-swift-ugcPost-7350249746764070912-qIBX)  
 - [🚀 Work Smart, Not Hard 🎯](https://www.linkedin.com/posts/eslam-awad-36aa91204_work-smart-not-hard-code-faster-ugcPost-7357924313166970880-_pY7)  
 - [🚀 Introducing Coursemia – Your Gateway to Courses and Professional Events 🌍](https://www.linkedin.com/posts/eslam-awad-36aa91204_swift-swiftui-ios-activity-7372645274994896896-O-q7)  
 ---
 
-### 📫 Contact
+### 📫 Contact:
 
 - [LinkedIn](https://www.linkedin.com/in/eslam-awad-36aa91204/)  
 - [Company Website — ITRoots](https://itroots.net)  
