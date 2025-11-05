@@ -88,7 +88,7 @@ I leverage AI tools, work independently to solve complex technical challenges, a
 ## 📝 Latest Posts:
 
 - [ZEGOCLOUD Console SDK APNs Type (VoIP)](https://www.linkedin.com/posts/eslam-awad-36aa91204_xcode-ios-swift-ugcPost-7350249746764070912-qIBX)
-  <a href="" target="_blank"><img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/About%20me/Screenshot%202025-11-01%20at%208.14.18%E2%80%AFPM.imageset/Screenshot%202025-11-01%20at%208.14.18%E2%80%AFPM.png" alt="ZEGOCLOUD post screenshot (placeholder)" width="460" /></a>
+- <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/About%20me/Screenshot%202025-11-01%20at%208.14.18%E2%80%AFPM.imageset/Screenshot%202025-11-01%20at%208.14.18%E2%80%AFPM.png" width="460" />
 
 - [🚀 Work Smart, Not Hard 🎯](https://www.linkedin.com/posts/eslam-awad-36aa91204_work-smart-not-hard-code-faster-ugcPost-7357924313166970880-_pY7)
 - 
