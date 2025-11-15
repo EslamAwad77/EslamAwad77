@@ -3,7 +3,7 @@
 **iOS Developer** at [ITRoots - الجذور لتكنولوجيا المعلومات](https://itroots.net) • Building reliable, maintainable, and scalable iOS applications.
 
 [🍏 My GitHub Portfolio](https://github.com/EslamAwad77/ios-developer-portfolio)
-
+[📄 My CV Resume](https://flowcv.com/resume/njaewse3bb)
 ---
 
 ## 💬 About Me:
